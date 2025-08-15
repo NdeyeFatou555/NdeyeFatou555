@@ -53,6 +53,42 @@ HTTP trap server in Python that logs malicious requests received.
 
 ---
 
+## 🔐 🤖 Artificial Intelligence & Cybersecurity
+
+### 10. Détection d’URL phishing – Régression Logistique
+Extraction de features d’URL pour classifier les liens comme phishing ou légitimes.  
+🔗 [View project](https://github.com/NdeyeFatou555/01_PhishingURL_LogReg)
+
+### 11. Détection d’anomalies réseau – IsolationForest (version enrichie)
+Anomaly detection in network flows with visual outputs and unsupervised learning.  
+🔗 [View project](https://github.com/NdeyeFatou555/02_Network_Anomaly_IsolationForest)
+
+### 12. Détection de brute-force SSH – ML
+Transformation des logs SSH en features pour détecter automatiquement les attaques.  
+🔗 [View project](https://github.com/NdeyeFatou555/03_SSH_Bruteforce_ML)
+
+### 13. Détection de tunnel DNS – Méthode heuristique
+Identification de DNS tunneling par entropie, fréquence et longueur des noms de domaine.  
+🔗 [View project](https://github.com/NdeyeFatou555/04_DNS_Tunnel_Heuristic)
+
+---
+
+## Big Projects
+
+### 14. Mini SIEM avec scoring ML
+Prototype de SIEM : ingestion de logs, agrégation et scoring d’alertes avec modèle ML.  
+🔗 [View project](https://github.com/NdeyeFatou555/05_Big_SIEM_Mini_ML)
+
+### 15. Détection de malware – RandomForest
+Analyse binaire et classification des exécutables Windows (benign vs. malware).  
+🔗 [View project](https://github.com/NdeyeFatou555/06_Big_Malware_Detection_RF)
+
+### 16. Simulation de monitoring réseau en temps réel
+Détection d’anomalies en live via analyse de flux (z-score, moyenne glissante, etc.).  
+🔗 [View project](https://github.com/NdeyeFatou555/07_Big_Realtime_NetMon)
+
+---
+
 ## 📌 Objective
 This portfolio reflects my dual interest in:
 - **AI applied to security and data**
@@ -71,7 +107,6 @@ Each project contains:
 - **AI/ML**: Scikit-learn, TensorFlow, Pandas, NumPy
 - **Cybersecurity**: Network analysis, Log analysis, Vulnerability assessment
 - **Tools**: Git, Linux, Docker, Wireshark
-
 
 
 ---
